@@ -1,2 +1,2 @@
-# auto-remainder
-Medicine Reminder using Arduino
+# auto-remainder Medicine Reminder using Arduino
+Using an LCD interface, a 16*2 LCD module is connected to an Arduino UNO via its address, data bus, and a few control pins. The time and date are displayed on the LCD after the RTC transmits the data to the LCD module. And RTC module due to its integrated CMOS cell, it can update the time and date without an external power source. Servo motor: a few boxes having a servo motor at the opening in each box which opens to drop the specific number of pills needs to be taken at given time based on the controller and sensor.
